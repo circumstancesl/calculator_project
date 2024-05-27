@@ -1,1 +1,1 @@
-# calculator_project
+# Individual project 1st year university
